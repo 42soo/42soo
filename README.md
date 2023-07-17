@@ -1,4 +1,4 @@
-### Hi there 👋
+### 헤이 모두들 안녕!
 
 <!--
 **42soo/42soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
